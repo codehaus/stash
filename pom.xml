@@ -1,6 +1,6 @@
 <project>
   <groupId>obie</groupId>
-  <artifactId>obie</artifactId>
+  <artifactId>stash</artifactId>
   <name>Obie</name>
   <version>1.0-alpha-1-SNAPSHOT</version>
   <dependencies>
