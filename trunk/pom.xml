@@ -1,0 +1,23 @@
+<project>
+  <groupId>obie</groupId>
+  <artifactId>obie</artifactId>
+  <name>Obie</name>
+  <version>1.0-alpha-1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>ognl</groupId>
+      <artifactId>ognl</artifactId>
+      <version>2.5.1</version>
+    </dependency>
+    <dependency>
+      <groupId>jdbm</groupId>
+      <artifactId>jdbm</artifactId>
+      <version>0.20</version>
+    </dependency>    
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+    </dependency>
+  </dependencies>
+</project>
